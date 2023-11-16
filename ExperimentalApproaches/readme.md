@@ -1,7 +1,7 @@
 ### Readme for Failed - Movie Recommendation System Project
 
 #### Project Overview
-This project aimed to develop a movie recommendation system based on movie descriptions. The dataset includes over 700,000 movies, with features like title, genres, overview, and more. We initially attempted to use Word2Vec for generating semantic embeddings of movie descriptions. However, due to the dataset's large size and the high computational demands of Word2Vec, we faced significant challenges.
+This project aimed to develop a movie recommendation system based on movie descriptions. The dataset includes over 700,000 movies, with features like title, genres, overview, and more. We start with collection the data and start with a easy recommendation system with 10 000 movies (it could not handle the whole set with this either) from the dataset. Then we try to implement a word embedding. We initially attempted to use Word2Vec for generating semantic embeddings of movie descriptions. However, due to the dataset's large size and the high computational demands of Word2Vec, we faced significant challenges.
 
 #### Challenges Encountered
 1. **Computational Limitations with Word2Vec**: 
