@@ -7,8 +7,9 @@ Our code is optimized for Google Colab. You'll need a Google account to access G
 
 ### 2) Dataset Preparation:
 
-Obtain the datasets for each streaming platform from the indicated sources. If needed, we can share a Google Drive link with your email. Please ensure that these datasets are organized in your Google Drive following a specific file structure:
+We have added a Google Drive link for the data folder needed. Please ensure that these datasets are organized in your Google Drive following a specific file structure:
 
+Google Drive link: https://drive.google.com/drive/folders/1DW_N5WkB13QrvgOuMqzEs2mDzCPWABUP?usp=drive_link
 
 ```
 My Drive
